@@ -214,41 +214,5 @@ if argument == 'conversation':
     else:
         print 'Number of Emotions in this Conversation: ' + str(len(unique))
         print 'Professional'
-    
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
+   
 
